@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="319e379bdbb1f05067ee25e5ca9619cf" sys_domain="global" table="cmdb_ci_service_auto" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>AC38038</sys_created_by>
+            <sys_created_on>2021-08-11 20:14:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>399e779bdbb1f05067ee25e5ca961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_service_auto" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">319e379bdbb1f05067ee25e5ca9619cf</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">f59e779bdbb1f05067ee25e5ca961909</sys_ui_section>
+            <sys_updated_by>AC38038</sys_updated_by>
+            <sys_updated_on>2021-08-11 20:14:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>AC38038</sys_created_by>
+            <sys_created_on>2021-08-11 20:14:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f59e779bdbb1f05067ee25e5ca961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_service_auto" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">319e379bdbb1f05067ee25e5ca9619cf</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">399e379bdbb1f05067ee25e5ca9619fc</sys_ui_section>
+            <sys_updated_by>AC38038</sys_updated_by>
+            <sys_updated_on>2021-08-11 20:14:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>AC38038</sys_created_by>
+            <sys_created_on>2021-08-11 20:14:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>319e379bdbb1f05067ee25e5ca9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_service_auto" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">319e379bdbb1f05067ee25e5ca9619cf</sys_ui_form>
+            <sys_ui_section caption="Team" display_value="Team" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">359e379bdbb1f05067ee25e5ca9619d1</sys_ui_section>
+            <sys_updated_by>AC38038</sys_updated_by>
+            <sys_updated_on>2021-08-11 20:14:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>AC38038</sys_created_by>
+            <sys_created_on>2021-08-11 20:14:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fd9e779bdbb1f05067ee25e5ca961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_service_auto" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">319e379bdbb1f05067ee25e5ca9619cf</sys_ui_form>
+            <sys_ui_section caption="Business Need" display_value="Business Need" name="cmdb_ci_service_auto" sys_domain="global" view="68218fb61bb32010049cedf1604bcb4f">fd9e779bdbb1f05067ee25e5ca961904</sys_ui_section>
+            <sys_updated_by>AC38038</sys_updated_by>
+            <sys_updated_on>2021-08-11 20:14:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_ci_service_auto</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>AC38038</sys_created_by>
+            <sys_created_on>2021-08-11 20:14:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>319e379bdbb1f05067ee25e5ca9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_service_auto</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_319e379bdbb1f05067ee25e5ca9619cf</sys_update_name>
+            <sys_updated_by>AC38038</sys_updated_by>
+            <sys_updated_on>2021-08-11 20:14:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Service Portfolio" name="service_portfolio">68218fb61bb32010049cedf1604bcb4f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

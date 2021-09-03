@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="UiPath Configuration Template - Private/Public Cloud">5b3ab76a0fa600107b75001ea8767ed3</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_twte2_test_raj_0.UiPath_Connection_Rajathi</id>
+        <multiple_connections>false</multiple_connections>
+        <name>UiPath Connection_Rajathi</name>
+        <parent display_value="sn_uipath_spoke.UiPath">1a876c550f5140109c60001ea8767e83</parent>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>AC51163</sys_created_by>
+        <sys_created_on>2021-07-19 21:41:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9fc5bd48db2930d067ee25e5ca9619cb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_twte2_test_raj_0.UiPath_Connection_Rajathi</sys_name>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_update_name>sys_alias_9fc5bd48db2930d067ee25e5ca9619cb</sys_update_name>
+        <sys_updated_by>AC51163</sys_updated_by>
+        <sys_updated_on>2021-07-19 22:08:48</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</application>
+        <file_path/>
+        <instance_id>371827b54fab96807b9b220f0310c724</instance_id>
+        <instance_name>mysupportdeskupgrade</instance_name>
+        <name>sys_alias_9fc5bd48db2930d067ee25e5ca9619cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="UiPath Configuration Template - Private/Public Cloud">5b3ab76a0fa600107b75001ea8767ed3</configuration_template><connection_type>http_connection</connection_type><id>x_twte2_test_raj_0.UiPath_Connection_Rajathi</id><multiple_connections>false</multiple_connections><name>UiPath Connection_Rajathi</name><parent display_value="sn_uipath_spoke.UiPath">1a876c550f5140109c60001ea8767e83</parent><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>AC51163</sys_created_by><sys_created_on>2021-07-19 21:41:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9fc5bd48db2930d067ee25e5ca9619cb</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_twte2_test_raj_0.UiPath_Connection_Rajathi</sys_name><sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope><sys_update_name>sys_alias_9fc5bd48db2930d067ee25e5ca9619cb</sys_update_name><sys_updated_by>AC51163</sys_updated_by><sys_updated_on>2021-07-19 22:08:48</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1936093594</payload_hash>
+        <record_name>x_twte2_test_raj_0.UiPath_Connection_Rajathi</record_name>
+        <reverted_from/>
+        <source>46835ac71b99f8506ed0113fad4bcb89</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AC51163</sys_created_by>
+        <sys_created_on>2021-07-19 22:08:49</sys_created_on>
+        <sys_id>313c7d8cdb6930d067ee25e5ca961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ac0d0857a0000001</sys_recorded_at>
+        <sys_updated_by>AC51163</sys_updated_by>
+        <sys_updated_on>2021-07-19 22:08:49</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <u_link>[code]&lt;a title="sys_alias_9fc5bd48db2930d067ee25e5ca9619cb" class="linked" href="sys_alias.do?sys_id=9fc5bd48db2930d067ee25e5ca9619cb"&gt;sys_alias_9fc5bd48db2930d067ee25e5ca9619cb&lt;/a&gt;[/code]</u_link>
+        <update_guid>353c7d8c4d6930d04e40060bd3465681</update_guid>
+        <update_guid_history>353c7d8c4d6930d04e40060bd3465681:1936093594,90f5b588d72930d0e9b6aefcfd7c85fe:-377719882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AC51163</sys_created_by>
+        <sys_created_on>2021-07-20 20:27:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>2b62ed78eddd4823b7d8aeb2111b32c1</sys_id>
+        <sys_metadata>9fc5bd48db2930d067ee25e5ca9619cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_twte2_test_raj_0.UiPath_Connection_Rajathi</sys_name>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_scope_delete display_value="">33da7168b8464e6e8e3e44a2e80544d9</sys_scope_delete>
+        <sys_update_name>sys_alias_9fc5bd48db2930d067ee25e5ca9619cb</sys_update_name>
+        <sys_update_version display_value="sys_alias_9fc5bd48db2930d067ee25e5ca9619cb">313c7d8cdb6930d067ee25e5ca961982</sys_update_version>
+        <sys_updated_by>AC51163</sys_updated_by>
+        <sys_updated_on>2021-07-20 20:27:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

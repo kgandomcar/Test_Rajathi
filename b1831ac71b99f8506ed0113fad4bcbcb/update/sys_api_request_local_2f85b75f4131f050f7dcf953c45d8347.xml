@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_request_local">
+    <sys_api_request_local action="INSERT_OR_UPDATE">
+        <api_collection/>
+        <api_operation display_value="POST /">7b6d6757dbfdb05067ee25e5ca961963</api_operation>
+        <description/>
+        <name>Generated Request for 13cae79fdbbdb05067ee25e5ca96193c</name>
+        <required>false</required>
+        <sys_class_name>sys_api_request_local</sys_class_name>
+        <sys_created_by>AC38038</sys_created_by>
+        <sys_created_on>2021-08-11 19:34:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f85b75f4131f050f7dcf953c45d8347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7b6d6757dbfdb05067ee25e5ca961963</sys_name>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_update_name>sys_api_request_local_2f85b75f4131f050f7dcf953c45d8347</sys_update_name>
+        <sys_updated_by>AC38038</sys_updated_by>
+        <sys_updated_on>2021-08-11 19:34:53</sys_updated_on>
+    </sys_api_request_local>
+</record_update>

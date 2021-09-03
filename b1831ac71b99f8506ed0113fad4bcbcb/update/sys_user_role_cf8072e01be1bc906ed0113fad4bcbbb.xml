@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Rajathi_Test</description>
+        <elevated_privilege>true</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_twte2_test_raj_0.Rajathi_Test</name>
+        <requires_subscription>0</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Rajathi_Test</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>AC38038</sys_created_by>
+        <sys_created_on>2021-07-21 15:14:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cf8072e01be1bc906ed0113fad4bcbbb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_twte2_test_raj_0.Rajathi_Test</sys_name>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_update_name>sys_user_role_cf8072e01be1bc906ed0113fad4bcbbb</sys_update_name>
+        <sys_updated_by>AC51163</sys_updated_by>
+        <sys_updated_on>2021-07-21 15:28:05</sys_updated_on>
+    </sys_user_role>
+</record_update>

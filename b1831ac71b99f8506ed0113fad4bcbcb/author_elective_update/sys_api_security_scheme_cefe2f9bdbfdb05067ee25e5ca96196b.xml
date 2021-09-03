@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_security_scheme">
+    <sys_api_security_scheme action="DELETE">
+        <allow_external_access>false</allow_external_access>
+        <api_collection display_value="Rest trigger for flow id=13cae79fdbbdb05067ee25e5ca96193c - v1">336d6757dbfdb05067ee25e5ca961946</api_collection>
+        <enforce_acl/>
+        <requires_authentication>true</requires_authentication>
+        <sys_class_name>sys_api_security_scheme</sys_class_name>
+        <sys_created_by>AC38038</sys_created_by>
+        <sys_created_on>2021-08-11 19:06:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>cefe2f9bdbfdb05067ee25e5ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_update_name>sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b</sys_update_name>
+        <sys_updated_by>AC38038</sys_updated_by>
+        <sys_updated_on>2021-08-11 19:06:07</sys_updated_on>
+    </sys_api_security_scheme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</application>
+        <file_path/>
+        <instance_id>371827b54fab96807b9b220f0310c724</instance_id>
+        <instance_name>mysupportdeskupgrade</instance_name>
+        <name>sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_security_scheme"><sys_api_security_scheme action="INSERT_OR_UPDATE"><allow_external_access>false</allow_external_access><api_collection display_value="Rest trigger for flow id=13cae79fdbbdb05067ee25e5ca96193c - v1">336d6757dbfdb05067ee25e5ca961946</api_collection><enforce_acl/><requires_authentication>true</requires_authentication><sys_class_name>sys_api_security_scheme</sys_class_name><sys_created_by>AC38038</sys_created_by><sys_created_on>2021-08-11 19:06:07</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>cefe2f9bdbfdb05067ee25e5ca96196b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope><sys_update_name>sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b</sys_update_name><sys_updated_by>AC38038</sys_updated_by><sys_updated_on>2021-08-11 19:06:07</sys_updated_on></sys_api_security_scheme></record_update>]]></payload>
+        <payload_hash>-1628998262</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>46835ac71b99f8506ed0113fad4bcb89</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AC38038</sys_created_by>
+        <sys_created_on>2021-08-11 19:06:07</sys_created_on>
+        <sys_id>8efe2f9bdbfdb05067ee25e5ca96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b369b86be0000001</sys_recorded_at>
+        <sys_updated_by>AC38038</sys_updated_by>
+        <sys_updated_on>2021-08-11 19:06:07</sys_updated_on>
+        <type>API Security Scheme</type>
+        <u_link>[code]&lt;a title="sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b" class="linked" href="sys_api_security_scheme.do?sys_id=cefe2f9bdbfdb05067ee25e5ca96196b"&gt;sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b&lt;/a&gt;[/code]</u_link>
+        <update_guid>06fe2f9beafdb050c71b1a2818e8806d</update_guid>
+        <update_guid_history>06fe2f9beafdb050c71b1a2818e8806d:-1628998262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AC38038</sys_created_by>
+        <sys_created_on>2021-08-11 19:06:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_api_security_scheme">sys_api_security_scheme</sys_db_object>
+        <sys_id>0ccfd14801784e08823a7a225045fc40</sys_id>
+        <sys_metadata>cefe2f9bdbfdb05067ee25e5ca96196b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test_Rajathi" source="x_twte2_test_raj_0">b1831ac71b99f8506ed0113fad4bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_Rajathi">b1831ac71b99f8506ed0113fad4bcbcb</sys_scope>
+        <sys_scope_delete display_value="">33da7168b8464e6e8e3e44a2e80544d9</sys_scope_delete>
+        <sys_update_name>sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b</sys_update_name>
+        <sys_update_version display_value="sys_api_security_scheme_cefe2f9bdbfdb05067ee25e5ca96196b">8efe2f9bdbfdb05067ee25e5ca96196d</sys_update_version>
+        <sys_updated_by>AC38038</sys_updated_by>
+        <sys_updated_on>2021-08-11 19:06:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
